@@ -5,7 +5,7 @@
 :root{
     --white-color: #fff;
     --black-color: #000;
-    --text-color: #333;
+    --text-color: #3b368c;
 }
 
 *{
@@ -15,6 +15,10 @@
 
 body{
     font-family: 'DM Sans';
+}
+
+.text-center{
+    text-align: center;
 }
 
 html{
